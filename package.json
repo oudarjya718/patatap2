@@ -4,7 +4,7 @@
   "description": "",
   "main": "circles.html",
   "scripts": {
-    "deploy": "gh-pages -d CODEALONG 4"
+    "deploy": "gh-pages -d dist"
   },
   "author": "oss",
   "license": "ISC",

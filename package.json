@@ -1,0 +1,15 @@
+{
+  "name": "codealong-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "circles.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "oss",
+  "license": "ISC",
+  "homepage": "http://oudarjya718.github.io/patatap2",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
